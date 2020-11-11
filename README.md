@@ -1,2 +1,2 @@
-# praktikum-_modul_1
+# praktikum_modul_1
 Aplikasi Pendataan Mahasiswa
